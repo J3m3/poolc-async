@@ -5,6 +5,16 @@
 
 ![PoolC Banner](https://poolc.org/assets/main-banner-DAW2HCpy.png)
 
+## Quick notes
+
+To follow the experiments on Node.js, please refer to [the 'experiment' directory in the `node-experiment` submodule](node-experiment/experiment/).
+
+Note that the size of `node-experiment` submodule is over 1.5 GB. You might want to shallowly clone it by using the command below.
+
+```console
+git clone --recurse-submodules --shallow-submodules https://github.com/J3m3/poolc-async.git
+```
+
 ## Table of contents
 
 0. **Design principles of this seminar**
