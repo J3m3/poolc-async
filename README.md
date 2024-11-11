@@ -7,7 +7,7 @@
 
 ## Quick notes
 
-To follow the experiments on Node.js, please refer to [the 'experiment' directory in the `node-experiment` submodule](node-experiment/experiment/).
+To follow the experiments on Node.js, please refer to [the 'experiment' directory in the `node-experiment` submodule](https://github.com/J3m3/node-experiment/tree/1f6b6427f46e4712ed8c05805afd4e067f404286/experiment).
 
 Note that the size of `node-experiment` submodule is over 1.5 GB. You might want to shallowly clone it by using the command below.
 
