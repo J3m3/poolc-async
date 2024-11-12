@@ -48,6 +48,9 @@ git clone --recurse-submodules --shallow-submodules https://github.com/J3m3/pool
    - Asynchronous I/O
      - `aio`
      - `io_uring`
+   - Choosing the right I/O strategy
+     - handling cpu-bound tasks
+     - handling I/O-bound tasks
    - Async runtime case studies
      - Node.js
      - Golang
