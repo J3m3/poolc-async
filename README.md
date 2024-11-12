@@ -24,14 +24,14 @@ git clone --recurse-submodules --shallow-submodules https://github.com/J3m3/pool
      - kernel
      - hardware
    - Unveiling interfaces
-     - user <----> library
-     - library <----> kernel
-     - kernel <----> hardware
+     - user ↔ library
+     - library ↔ kernel
+     - kernel ↔ hardware
 
 1. **Warm up**
 
-   - Semantics of terminologies
-     - concurrent vs parallel
+   - Terminology semantics
+     - concurrent vs. parallel
      - blocking / non-blocking
      - async / await
    - Misconceptions on JS `Promise`
@@ -48,14 +48,14 @@ git clone --recurse-submodules --shallow-submodules https://github.com/J3m3/pool
    - Asynchronous I/O
      - `aio`
      - `io_uring`
-   - Case studies
+   - Async runtime case studies
      - Node.js
      - Golang
      - Rust (feat. `tokio`)
 
 3. **Kernel-hardware boundary**
 
-   - Interrupt & device driver
+   - Interrupts & device drivers
    - System call implementations
 
 ## Assets
