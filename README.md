@@ -67,7 +67,8 @@ Icons: [Primer Octicons](https://github.com/primer/octicons/tree/main) by GitHub
 
 ## References
 
-TBD
+- https://eklitzke.org/blocking-io-nonblocking-io-and-epoll
+- https://unixism.net/loti/tutorial/sq_poll.html
 
 ## License
 
