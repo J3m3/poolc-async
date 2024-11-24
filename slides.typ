@@ -229,7 +229,7 @@
 
 // 16
 #relative-center-slide(title: "I/O multiplexing")[
-  #image("assets/figure3.gif", width: 60%)
+  #image("assets/select.png", width: 60%)
   #v(-1em)
   #text(size: 10pt)[https://developer.ibm.com/articles/l-async/]
 ]
